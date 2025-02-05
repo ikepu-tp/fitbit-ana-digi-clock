@@ -1,0 +1,1 @@
+registerSettingsPage(({ settings }) => <Page></Page>);
