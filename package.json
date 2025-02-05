@@ -19,7 +19,7 @@
       "vulcan"
     ],
     "i18n": {},
-    "defaultLanguage": "js-JP"
+    "defaultLanguage": "ja-JP"
   },
   "scripts": {
     "build": "fitbit-build",
